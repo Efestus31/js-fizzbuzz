@@ -11,7 +11,11 @@
 
 // Ciclo che va da 1 a 100 
 for (let i = 1; i <= 100; i++) {
-
+// Verifico se i è un multiplo di 3 e 5
+if (i % 3 === 0 && i % 5 === 0) {
+    // Se sì, stampa "FizzBuzz"
+    console.log("FizzBuzz");
+}
     
 }
 // Altrimenti, verifica se i è un multiplo di 3, stampa fizz
