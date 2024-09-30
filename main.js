@@ -9,10 +9,11 @@
 * console.log per stampare i vari risultati
 */
 
-// Ciclo che va da 1 a 100
+// Ciclo che va da 1 a 100 
+for (let i = 1; i <= 100; i++) {
 
-// Verifico se i è un multiplo di 3 e 5, stampa fizzbuzz
-
+    
+}
 // Altrimenti, verifica se i è un multiplo di 3, stampa fizz
 
 // Altrimenti, verifica se i è un multiplo di 5, stampa buzz
