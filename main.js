@@ -28,5 +28,9 @@ for (let i = 1; i <= 100; i++) {
     } 
 
     // Se non è nessuno dei precedenti stampa i
+    else {
+        // Stampa il numero i
+        console.log(i);
+    }
 }
 
